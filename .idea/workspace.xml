@@ -36,7 +36,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Lea_Roncero/Code/SpringBoot_Uebungen/lab2-spring-database/managing-many-to-many-relationship/src/main/java/lab2/manytomany",
+    "last_opened_file_path": "D:/Lea_Roncero/Code/SpringBoot_Uebungen/lab1-service-app2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -118,6 +118,7 @@
       <workItem from="1709902709604" duration="536000" />
       <workItem from="1709903316275" duration="633000" />
       <workItem from="1709904371407" duration="1286000" />
+      <workItem from="1710137885241" duration="56000" />
     </task>
     <servers />
   </component>
